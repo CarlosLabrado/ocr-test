@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\AndroidProjects\android\app\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.6-mod-c28ca825f932a1223b39ba78ab1b4bb7a81b3975.jar"
+        jar="C:\AndroidProjects\android\app\libs\microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9"/>
+    <item
+        dex="C:\AndroidProjects\android\app\build\intermediates\pre-dexed\debug\classes-415f596cc4581d70a5f2ba39346d730f73def98a.jar"
+        jar="C:\AndroidProjects\android\app\build\intermediates\exploded-aar\android.libraries\tess-two\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="867593aa668f6bbb8ebdc5ee448e7215e0fc3dac"/>
+    <item
+        dex="C:\AndroidProjects\android\app\build\intermediates\pre-dexed\debug\jtar-1.0.4-f1f3d4a7437cfbaac3f0ab21a07449b6a526373e.jar"
+        jar="C:\AndroidProjects\android\app\libs\jtar-1.0.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7"/>
+    <item
+        dex="C:\AndroidProjects\android\app\build\intermediates\pre-dexed\debug\json_simple-1.1-5f94c9bd7aad24e9e6156f8058a1013b827db0e7.jar"
+        jar="C:\AndroidProjects\android\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb"/>
+    <item
+        dex="C:\AndroidProjects\android\app\build\intermediates\pre-dexed\debug\google-api-translate-java-0.98-mod2-a8f51b5cbe72d8878d79b8330e8505aa9644a8bc.jar"
+        jar="C:\AndroidProjects\android\app\libs\google-api-translate-java-0.98-mod2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b"/>
+
+</pre-dex-items>

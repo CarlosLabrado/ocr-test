@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="C:\AndroidProjects\android\app\build\intermediates\exploded-aar\android.libraries\tess-two\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\AndroidProjects\android\app\src\main\assets" >
+            <file
+                name="html/about.html"
+                path="C:\AndroidProjects\android\app\src\main\assets\html\about.html" />
+            <file
+                name="html/changes.html"
+                path="C:\AndroidProjects\android\app\src\main\assets\html\changes.html" />
+            <file
+                name="html/style.css"
+                path="C:\AndroidProjects\android\app\src\main\assets\html\style.css" />
+            <file
+                name="html/whatsnew.html"
+                path="C:\AndroidProjects\android\app\src\main\assets\html\whatsnew.html" />
+            <file
+                name="images/launcher_icon.png"
+                path="C:\AndroidProjects\android\app\src\main\assets\images\launcher_icon.png" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\AndroidProjects\android\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
